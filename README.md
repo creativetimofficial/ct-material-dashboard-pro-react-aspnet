@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-react-aspnet.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-react-aspnet/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-react-aspnet.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-react-aspnet/issues-react?q=is%3Aissue+is%3Aclosed)
 
-![Product Gif](./material-dashboard-pro-react.gif)
+![Product Gif](./material-dashboard-pro-react-asp-net.gif)
 
 Material Dashboard PRO React Asp.net is a Premium Material-UI Admin created using [create-react-app](https://github.com/facebook/create-react-app) with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard PRO React Asp.net was built over the popular Material-UI framework.
 
