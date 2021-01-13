@@ -47,12 +47,12 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/aspnet-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react-aspnet)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/aspnet-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react-asp-net)
 
 
 | Asp.net | 
 | --- | 
-| [![Material Dashboard Pro React Asp.net](https://s3.amazonaws.com/creativetim_bucket/products/399/original/opt_mdp_react_aspnet_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-react-aspnet)|
+| [![Material Dashboard Pro React Asp.net](https://s3.amazonaws.com/creativetim_bucket/products/399/original/opt_mdp_react_aspnet_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-react-asp-net)|
 
 ## Demo
 
@@ -639,7 +639,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 - [Live Preview](https://demos.creative-tim.com/material-dashboard-pro-react-asp-net)
-- Buy Page: https://www.creative-tim.com/product/material-dashboard-pro-react-aspnet
+- Buy Page: https://www.creative-tim.com/product/material-dashboard-pro-react-asp-net
 - Documentation is [here](https://demos.creative-tim.com/material-dashboard-pro-react-asp-net)
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
